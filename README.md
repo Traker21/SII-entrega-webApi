@@ -1,7 +1,7 @@
 # SII-entrega-webApi
 Alexander Ramos Prueba tecnica
 
-Para correr el Programa se debe correr la api https://github.com/Traker21/SII-entrega-webApi Y correr la app de angular ttps://github.com/Traker21/SII-Entrga-Frontend en el puerto 4200
+Para correr el Programa se debe correr la api https://github.com/Traker21/SII-entrega-webApi Y correr la app de angular https://github.com/Traker21/SII-Entrga-Frontend en el puerto 4200
 
 
 en este bloque se realizo una Conexión con firebase media la libreria FireSharp.
